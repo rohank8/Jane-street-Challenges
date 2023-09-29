@@ -4,6 +4,6 @@ Jane street are a a research driven global proprietary trading firm. Each month 
 
 Link to all puzzles: https://www.janestreet.com/puzzles/
 
-This repository includes a collection of puzzles solved correctly. Over the next few months I hope to complete all 45 puzzles released to date and continue solving them monthly.
+This repository includes a collection of puzzles solved correctly. I have completed a few ever since discovering the puzzles in September 2023. Over the next few months I hope to complete all 45 puzzles released to date and continue solving them monthly.
 
 
