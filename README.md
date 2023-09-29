@@ -6,3 +6,4 @@ Link to all puzzles: https://www.janestreet.com/puzzles/
 
 This repository includes a collection of puzzles solved correctly and not puzzles currently in progress. 
 
+
